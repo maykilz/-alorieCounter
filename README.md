@@ -1,2 +1,2 @@
-# -alorieCounter
+# CalorieCounter
 Калькулятор калорий пищи на ReactJS
